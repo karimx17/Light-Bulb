@@ -1,0 +1,18 @@
+.box {
+  width: 600px;
+  height: 500px;
+  margin: 50px auto;
+  text-align: center;
+  box-sizing: border-box;
+}
+#light {
+  width: 500px;
+  height: 600px;
+}
+.light-off {
+  background-image: url("lightoff.jpg");
+}
+.light-on {
+  margin: auto;
+  background-image: url("lighton.jpg");
+}
